@@ -31,7 +31,7 @@ The patterns are labelled based on expert annotators "votes":
 1. Denoising signals: Wavelet transform ('db8')
 <p align="center">
   <img src="https://github.com/user-attachments/assets/124c4125-3154-41f0-8ebf-eb812809edc6" alt="F3_raw" width="400"/>
-  <img src="https://github.com/user-attachments/assets/d9c8224d-76f8-430b-a8ed-80192ad05142" alt="F3_processed" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7cb63289-0bb5-4b30-8c03-6b28ee3d49d0" alt="F3_processed" width="400"/>
 </p>
 
 
