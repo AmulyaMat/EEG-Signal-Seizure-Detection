@@ -29,13 +29,19 @@ The patterns are labelled based on expert annotators "votes":
 
 **Feature Engineering:** The EEG Signal was processed and features were extracted using the following techniques:  
 1. Denoising signals: Wavelet transform ('db8')
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/124c4125-3154-41f0-8ebf-eb812809edc6" alt="F3_raw" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d9c8224d-76f8-430b-a8ed-80192ad05142" alt="F3_processed" width="400"/>
+</p>
+
+
 2. Welch
 3. Discrete Wavelet transform
 4. Extracted statistics: Log sum, mean average power, standard deviation
 5. Shannon Entropy
-6. CNN feature extraction [TODO]
 
-**Deep Learning [TODO]**: CNN-LSTM architecture, based on this paper
+
+**Deep Learning:** CNN-LSTM architecture, based on this paper
 
 Hezam Albaqami, Ghulam Mubashar Hassan, Amitava Datta,
 MP-SeizNet: A multi-path CNN Bi-LSTM Network for seizure-type classification using EEG,
@@ -45,6 +51,8 @@ Volume 84,
 104780,
 ISSN 1746-8094,
 https://doi.org/10.1016/j.bspc.2023.104780.
+
+
 
 
 
